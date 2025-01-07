@@ -2,8 +2,12 @@
 https://github.com/mpwillson/spambayes3
 
 # NEW INSTALL INSTRUCTIONS
-found here:  README-INSTALL.txt
+Found here:  README-INSTALL.txt
 
+# NOTES
+Most (if not all) of the ui stuff has been removed
+
+---
 ---
 
 # Spambayes3 - Python 3 version of spambayes
