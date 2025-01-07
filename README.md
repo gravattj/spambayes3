@@ -1,3 +1,10 @@
+# NEW INSTALL INSTRUCTIONS
+found here:  README-INSTALL.txt
+
+# BELOW IS ORIGINAL README
+
+---
+
 # Spambayes3 - Python 3 version of spambayes
 
 An attempt to port the sadly neglected spambayes spam analysis
