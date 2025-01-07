@@ -5,7 +5,8 @@ https://github.com/mpwillson/spambayes3
 Found here:  README-INSTALL.txt
 
 # NOTES
-Most (if not all) of the ui stuff has been removed
+* Most (if not all) of the ui stuff has been removed
+* Most (if not all) of the proxy stuff has been removed
 
 ---
 ---
