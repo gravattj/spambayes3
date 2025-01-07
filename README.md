@@ -1,7 +1,8 @@
+# FORKED FROM
+https://github.com/mpwillson/spambayes3
+
 # NEW INSTALL INSTRUCTIONS
 found here:  README-INSTALL.txt
-
-# BELOW IS ORIGINAL README
 
 ---
 
